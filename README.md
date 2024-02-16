@@ -3,7 +3,8 @@ This project aims to predict the appropriate type of fertilizer for different so
 
 Dataset:
 The dataset used in this project contains information about soil characteristics, environmental factors, and the corresponding recommended fertilizer types. The dataset was preprocessed to handle missing values and outliers before training the predictive models.
-link : " /content/drive/MyDrive/Fertilizer_prediction.csv "
+              
+              link : " /content/drive/MyDrive/Fertilizer_prediction.csv "
 
 Analysis and Modeling:
 Data Exploration: Exploratory data analysis (EDA) was performed to understand the distribution and relationships between different features. Outliers and missing values were identified and addressed accordingly.
